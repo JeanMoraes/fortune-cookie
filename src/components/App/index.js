@@ -10,8 +10,14 @@ function App(){
   const phrases = [
                   'A vida trará coisas boas se tiveres paciência.',
                   'Demonstre amor e alegria em todas as oportunidades e verás que a paz nasce dentro de você.',
-                  'Não compense na ira o que lhe falta na razão.',
-                  'Defeitos e virtudes são apenas dois lados da mesma moeda.'
+                  'Não compense na irá o que lhe falta na razão.',
+                  'Defeitos e virtudes são apenas dois lados da mesma moeda.',
+                  'Você é jovem apenas uma vez. Depois precisa inventar outra desculpa.',
+                  'Más companhias são como um mercado de peixes: acaba-se acostumando com o mal cheiro.',
+                  'As pessoas acham difícil resistir ao seu jeito persuasivo de ser.',
+                  'Faça pequenas coisas agora e maiores coisas lhe serão confiadas cada dia.',
+                  'As pessoas se esquecerão do que você disse e do que você fez… mas nunca se esquecerão de como você as fez sentir.',
+                  'Você pode encontrar a si mesmo fazendo ou dizendo coisas que você nunca imaginou possíveis.'
                 ];
 
   function breakCookie(){
